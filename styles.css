@@ -244,7 +244,7 @@ body {
 }
 
 .project-image img {
-    height: 500px;
+    width: 100%;
     border-radius: 8px;
     transition: transform 0.3s ease;
 }
